@@ -1,6 +1,7 @@
 class Solution:
     def halvesAreAlike(self, s: str) -> bool:
-        return self.countVowels(s[:(len(s)//2)]) == self.countVowels(s[(len(s)//2):])
+        mid = len(s)//2
+        return self.countVowels(s[:mid]) == self.countVowels(s[mid:])
     
 
     def countVowels(self, s: str) -> int:
