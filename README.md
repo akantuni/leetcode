@@ -14,6 +14,7 @@
 | 392 | [Is Subsequence](https://github.com/akantuni/LeetCode/tree/master/392) |
 | 485 | [Max Consecutive Ones](https://github.com/akantuni/LeetCode/tree/master/485) |
 | 876 | [Middle of the Linked List](https://github.com/akantuni/LeetCode/tree/master/876) |
+| 938 | [Range Sum of BST](https://github.com/akantuni/LeetCode/tree/master/938) |
 | 977 | [Squares of a Sorted Array](https://github.com/akantuni/LeetCode/tree/master/977) |
 | 1089 | [Duplicate Zeros](https://github.com/akantuni/LeetCode/tree/master/1089) |
 | 1207 | [Unique Number of Occurrences](https://github.com/akantuni/LeetCode/tree/master/1207) |
@@ -21,4 +22,4 @@
 | 1704 | [Determine if String Halves Are Alike](https://github.com/akantuni/LeetCode/tree/master/1704) |
 | 2225 | [Find Players With Zero or One Losses](https://github.com/akantuni/LeetCode/tree/master/2225) |
 
-Problems solved: **18**
+Problems solved: **19**
